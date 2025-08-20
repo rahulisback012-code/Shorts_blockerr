@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.ShortsBlocker" parent="Theme.MaterialComponents.DayNight.NoActionBar"/>
+    <style name="Theme.ShortsBlocker.NoActionBar" parent="Theme.MaterialComponents.DayNight.NoActionBar"/>
+</resources>
